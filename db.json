@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed Hard Drive on Worked Station#112",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-07-16T23:26:36.574Z"
+    },
+    {
+      "id": 3,
+      "message": "2666",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-07-16T23:26:50.769Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Simms",
+      "id": 5
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Stein",
+      "id": 6
+    }
+  ]
+}
